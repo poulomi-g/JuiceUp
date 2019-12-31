@@ -1,5 +1,7 @@
 # JuiceUp
 
+Made by: Kumail Husain, Hussain Chittalwala, Pushkar Sabharwal, Poulomi Ganguly for **HackED Beta 2019**
+
 Are you afraid of dying? Yes! So are your devices! Here's an app to fix that! 
 
 ## Objective:
